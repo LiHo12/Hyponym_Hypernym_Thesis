@@ -76,6 +76,21 @@ Data Preparation:
 * 10.3_Explode_provids_and_pids.py
 * 10.4_Explode_provids_and_pids_seperately.py
 * 10.5_merge_contexts.py
+* 11.0_get_index_pattern.py
+* 11.1_calculate_distance.py
+* 11.2_groupby_pids_mean_validation.py
+* 11.3_group_ids.py
+* 11.4_Pivot_counts.py
+* 14.0_Calculate_Sentence_Length.py
+* 14.1_Group_provids_ids.py
+* 15.0_Get_test_modifications.py
+* 15.1_Extract_provids_test.py
+* 15.2_Explode_provids_pids_test.py
+* 15.3_Explode_provids_and_pids_seperateley_test.py
+* 15.4_merge_contexts_test.py
+* 15.5_calculate_distance_test.py
+* 15.6_stack_means_sums_test.py
+* 15.7_Testing_on_test_set.ipynb
 
 Machine Learning:
 * 8.0_ML_Preprocessing.ipynb
@@ -95,6 +110,16 @@ Machine Learning:
 * 9.11_SMOTE.ipynb
 * 9.12_Get_fraction_count_based.ipynb
 * 9.13_Autoencoder_Approach.ipynb
-* 11.0_get_index_pattern.py
-* 11.1_calculate_distance.py
-
+* 12.0_3_class_new.ipynb
+* 12.1_One_Hot_Three_class_subclass.ipynb
+* 12.2_One_Hot_Three_class_types.ipynb
+* 12.3_Count_Three_class_subclass.ipynb
+* 12.4_Count_Three_class_types.ipynb
+* 12.6_Test_Count_Naive_Bayes.ipynb
+* 12.7_Confusion_Matrix_NB_Test.ipynb
+* 13.0_Distance_Features_fold.ipynb
+* 13.1_Distance_Cross_Validation.ipynb
+* 13.2_Distance_Mean_Two_class_dowsampled.ipynb
+* 13.3_Distance_Sum_Two_class_dowsampled.ipynb
+* 13.4_Confusion_Matrix_NB_Test_Two_class.ipynb
+* 13.5_SMOTE_Two_Class.ipynb
