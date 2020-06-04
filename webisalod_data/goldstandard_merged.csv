@@ -1,0 +1,2 @@
+;_id;instance;class;frequency;pidspread;pldspread;modifications
+28680;141663461;b1;waveform;3;2;3;"[{""_id"":{""$numberLong"":""141663461""},""ipremod"":"""",""ipostmod"":"""",""cpremod"":"""",""cpostmod"":"""",""frequency"":3.0,""pidspread"":2,""pldspread"":3,""pids"":""p34;p8a;"",""plds"":""confex.com;google.es;usda.gov;"",""provids"":""283396688;270354052;241885058;""}]"
