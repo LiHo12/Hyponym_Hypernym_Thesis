@@ -5,3 +5,7 @@ This repository contains the code for the improvement of hyponym and hypernym ex
 
 The code is structured as follows:
 
+## Goldstandard 
+Notebooks/Files:
+
+* 0.0_Calculate_Goldstandard.ipynb
