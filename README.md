@@ -17,7 +17,14 @@ Data Preparation:
 * 0.5_stack_data.py
 * 0.6_get_pids.py
 * 0.7_get_count_and_one_hot_pids_goldstandard.ipynb
-
+* 10.6_Extract_provids_goldstandard.py
+* 10.7_Explode_provids_and_pids_goldstandard.py
+* 10.8_Explode_provids_and_pids_seperately_goldstandard.py
+* 10.9_merge_contexts_goldstandard.py
+* 10.10_calculate_distance_goldstandard.py
+* 10.11_stack_mean_sums_goldstandard.py
+* 10.12_stack_sentences_goldstandard.py
+* 10.13_get_contexts_positives_goldstandard.py
 
 ## CaLiGraph
 
@@ -63,6 +70,12 @@ Data Preparation:
 * 6.2_Pids_negative_examples.py
 * 6.3_Stack_negative_examples.py
 * 6.4_Check_pid_negative_examples.ipynb
+* 10.0_get_unique_values.py
+* 10.1_get_modifications_two_class.py
+* 10.2_Extract_provids.py
+* 10.3_Explode_provids_and_pids.py
+* 10.4_Explode_provids_and_pids_seperately.py
+* 10.5_merge_contexts.py
 
 Machine Learning:
 * 8.0_ML_Preprocessing.ipynb
@@ -82,9 +95,6 @@ Machine Learning:
 * 9.11_SMOTE.ipynb
 * 9.12_Get_fraction_count_based.ipynb
 * 9.13_Autoencoder_Approach.ipynb
-* 10.0_get_unique_values.py
-* 10.1_get_modifications_two_class.py
-* 10.2_Extract_provids.py
-* 10.3_Explode_provids_and_pids.py
-* 10.4_Explode_provids_and_pids_seperately.py
-* 10.5_merge_contexts.py
+* 11.0_get_index_pattern.py
+* 11.1_calculate_distance.py
+
