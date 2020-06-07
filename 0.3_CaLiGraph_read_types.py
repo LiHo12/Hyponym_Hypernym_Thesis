@@ -2,7 +2,7 @@ from helper import utilgraph
 import os
 import pandas as pd
 
-folderGraph =  '/path/to/caligraph-instancestypes.nt' # see http://caligraph.org/resources.html for file
+folderGraph =  '/path/to/caligraph-instances_types.nt' # see http://caligraph.org/resources.html for file
 
 files = os.listdir(folderGraph)
 
